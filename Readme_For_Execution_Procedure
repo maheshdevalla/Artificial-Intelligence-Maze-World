@@ -1,0 +1,17 @@
+Hi,
+I have combined MazeWorld solution as a java project, so that it can be easily executed.
+
+
+1) Import the project into eclipse.
+2) As assignment is divide into three categories I have also divided the functionality into three application classes.
+	1) Run SingleRobotApp.java for the robot to go from one location to other location(Astar
+	2) Run MultiRobotApp.java for multiple robots to move from one location to goal.
+	3) Run BlindRobotApp.java for blind-robot assignment
+
+
+
+Note: For all the requirements I have included a maze file in the project itself "Maze.txt", we can directly edit in the eclipse
+for output please see the report for better understanding.
+Start and end nodes are mentioned already in the program.
+
+contact me if you face trouble in executing the project.
